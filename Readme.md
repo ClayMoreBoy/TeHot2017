@@ -19,6 +19,9 @@ www.typecho.re 御用typecho主题，创作于2017年，2018年小修小补，�
 ## 有问题
 
 发ISSUE咯，提问前请先学习《提问的艺术》
+## 感谢
+www.typecho.me
+xiamuyourenzhang.cn
 
 ## 授权协议
 
